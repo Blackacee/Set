@@ -1,2 +1,3 @@
 # Set
-Creating sets in JS 
+
+const mySet = new Set();
